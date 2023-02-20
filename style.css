@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background: gray;
+}
+.container{
+    border: 0px solid black;
+}
+.row{
+    border: 0px solid red;
+}
+.col{
+    border: 0px solid green;
+}
+#head{
+    background: orange;
+}
+#link{
+    background: lightblue;
+}
+#link1{
+    background: rgb(16, 47, 58);
+}
+#sec{
+    background: white;
+}
+#foot{
+    background: orange;
+}
